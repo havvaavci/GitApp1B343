@@ -15,5 +15,8 @@ public class Runner {
 
         //version 5
         System.out.println("Bir ilkbahar sabahi gunesle uyandin mi hic");
+
+        //version 6
+        System.out.println("Istikbal goklerdedir");
     }
 }
