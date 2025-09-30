@@ -18,5 +18,8 @@ public class Runner {
 
         //version 6
         System.out.println("Istikbal goklerdedir");
+
+        //version 7
+        System.out.println("Hi");
     }
 }
