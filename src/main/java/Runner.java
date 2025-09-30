@@ -12,5 +12,8 @@ public class Runner {
 
         //version 4
         System.out.println("Yeni gune merhaba");
+
+        //version 5
+        System.out.println("Bir ilkbahar sabahi gunesle uyandin mi hic");
     }
 }
